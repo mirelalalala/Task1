@@ -1,0 +1,10 @@
+Mirela\ImageDecoder$BITranscoder.class
+Mirela\LogoExtractor.class
+Mirela\LogoGrouper.class
+Mirela\ImageDecoder.class
+Mirela\ImageFetcher$Payload.class
+Mirela\ImageHasher.class
+Mirela\LogoExtractor$Candidate.class
+Mirela\LogoGrouper$LogoItem.class
+Mirela\ImageFetcher.class
+Mirela\ImageHasher$BITranscoder.class
